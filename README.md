@@ -1,4 +1,4 @@
-### Hey 😎
+### Hello 😎
 
 Reach me at alext.engineering@gmail.com 
 
