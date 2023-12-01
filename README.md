@@ -1,6 +1,8 @@
 ### Hello 😎
 
-Reach me at alext.engineering@gmail.com 
+Reach me here:
+
+alext.engineering@gmail.com 
 
 [LinkedIn](https://www.linkedin.com/in/ampersand-alexander/)
 
