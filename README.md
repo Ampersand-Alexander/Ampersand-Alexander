@@ -1,10 +1,12 @@
 ### Hello 😎
 
-Reach me here:
+## Reach me here:
 
 [Email](alext.engineering@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/ampersand-alexander/)
+
+## More about me:
 
 [Website (WIP)](https://alexanders-constellations.com)
 
