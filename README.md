@@ -2,7 +2,7 @@
 
 Reach me here:
 
-[email](alext.engineering@gmail.com)
+[Email](alext.engineering@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/ampersand-alexander/)
 
