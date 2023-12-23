@@ -2,15 +2,11 @@
 
 ## Reach me here:
 
-[Email](alext.engineering@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alext.engineering@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/ampersand-alexander/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ampersand-alexander/)
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/fujinxyukinko/)
-
-
-<a href="http://google.com/" target="_blank">Hello, google!</a>
-
 
 ## More about me:
 
