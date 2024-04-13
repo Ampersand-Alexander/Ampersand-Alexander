@@ -8,7 +8,7 @@
 
 ## More about me:
 
-[Website (WIP)](https://alexanders-constellations.com)
+[Website (WIP)](https://ampersand-alexander.github.io)
 
 ## Languages:
 
