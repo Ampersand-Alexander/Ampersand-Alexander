@@ -23,3 +23,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ampersand-Alexander&langs_count=10&layout=compact&theme=radical)](https://github.com/Ampersand-Alexander/github-readme-stats)
 
+<iframe src="https://giphy.com/embed/OkoScrMcY324r1j1HZ" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/dance-8bit-pixeljeff-OkoScrMcY324r1j1HZ">via GIPHY</a></p>
