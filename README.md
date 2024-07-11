@@ -20,5 +20,3 @@
 ![Svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ampersand-Alexander&langs_count=10&layout=compact&theme=radical)](https://github.com/Ampersand-Alexander/github-readme-stats)
-
-[![Dance 8bit](https://media.giphy.com/media/OkoScrMcY324r1j1HZ/giphy.gif)](https://giphy.com/stickers/dance-8bit-pixeljeff-OkoScrMcY324r1j1HZ)
